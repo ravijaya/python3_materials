@@ -2,11 +2,6 @@
 
 Introduction to Python - Syntax, working with Shell commands, Files, Text Processing, and more...
 
-* Suitable for a one/two day workshop for Python beginners
-* Visit [Python re(gex)?](https://github.com/learnbyexample/py_regular_expressions) repo for a book on regular expressions
-* [Python curated resources](https://github.com/learnbyexample/scripting_course/blob/master/Python_curated_resources.md) for more complete resources list, including tutorials for complete beginners to programming
-<br>
-
 # <a name="chapters"></a>Chapters
 
 * [Introduction](./Introduction.md)
